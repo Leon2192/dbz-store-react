@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "nombre": "Goku",
+    "tipo": "Juguete",
+    "precio": 284,
+    "descripcion": "Figura del guerrero son Goku en su fase inicial vestimenta maestro Roshi",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928020-MLA51152670657_082022-W.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Vegeta",
+    "tipo": "Juguete",
+    "precio": 380,
+    "descripcion": "Figura del guerrero son Goku en su fase inicial vestimenta maestro Roshi",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928020-MLA51152670657_082022-W.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Trunks",
+    "tipo": "Juguete",
+    "precio": 210,
+    "descripcion": "Figura del guerrero son Goku en su fase inicial vestimenta maestro Roshi",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928020-MLA51152670657_082022-W.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Llavero cell",
+    "tipo": "Llavero",
+    "precio": 210,
+    "descripcion": "Figura del guerrero son Goku en su fase inicial vestimenta maestro Roshi",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928020-MLA51152670657_082022-W.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Llavero Bu",
+    "tipo": "Llavero",
+    "precio": 210,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928020-MLA51152670657_082022-W.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Llavero Janemba",
+    "tipo": "Llavero",
+    "precio": 210,
+    "descripcion": "Figura del guerrero son Goku en su fase inicial vestimenta maestro Roshi",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928020-MLA51152670657_082022-W.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Carta Goten ssj",
+    "tipo": "Carta",
+    "precio": 525,
+    "descripcion": "Figura del guerrero son Goku en su fase inicial vestimenta maestro Roshi",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928020-MLA51152670657_082022-W.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Carta Gogeta SSJ",
+    "tipo": "Carta",
+    "precio": 775,
+    "descripcion": "Figura del guerrero son Goku en su fase inicial vestimenta maestro Roshi",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928020-MLA51152670657_082022-W.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Carta Majin Vegeta SSJ Goodbye",
+    "tipo": "Carta",
+    "precio": 210,
+    "descripcion": "Figura del guerrero son Goku en su fase inicial vestimenta maestro Roshi",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928020-MLA51152670657_082022-W.jpg"
+  }
+]
